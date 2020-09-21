@@ -1,0 +1,11 @@
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\bin\Debug\Camera.exe.config
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\obj\Debug\Camera.Form1.resources
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\bin\Debug\Camera.exe
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\bin\Debug\DirectX.Capture.dll
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\bin\Debug\DShowNET.dll
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\obj\Debug\Camera.exe
+C:\Users\AG_TEC\Documents\Projects\Camera\Camera\obj\Debug\Camera.pdb
